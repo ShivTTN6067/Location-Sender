@@ -1,0 +1,15 @@
+{
+  "name": "location-sender",
+  "version": "1.0.0",
+  "description": "Send users curreunt location on the specific endpoint for spection interval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShivTTN6067"
+  },
+  "author": "shivang garg",
+  "license": "ISC"
+}
